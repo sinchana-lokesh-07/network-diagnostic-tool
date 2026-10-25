@@ -1,0 +1,14 @@
+{
+  "src": "h1",
+  "dst": "h2",
+  "path": [
+    "s1",
+    "s3",
+    "s4"
+  ],
+  "alternative_paths": [],
+  "rtt_avg_ms": 80.684,
+  "loss_pct": 0.0,
+  "max_link_utilization_percent": 0.0,
+  "congested": false
+}
