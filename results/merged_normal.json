@@ -1,0 +1,42 @@
+{
+  "src": "h1",
+  "dst": "h2",
+  "path": [
+    "s1",
+    "s2",
+    "s4"
+  ],
+  "alternative_paths": [
+    [
+      "s1",
+      "s3",
+      "s4"
+    ]
+  ],
+  "rtt_avg_ms": 20.547,
+  "loss_pct": 0.0,
+  "max_link_utilization_percent": 0.01,
+  "congested": false,
+  "status": "OK",
+  "failed_links": [],
+  "failed_paths": [],
+  "path_comparison": [
+    {
+      "path": [
+        "s1",
+        "s2",
+        "s4"
+      ],
+      "rtt_avg_ms": 20.547,
+      "rtt_min_ms": 20.269,
+      "rtt_max_ms": 24.43,
+      "jitter_ms": 0.198,
+      "loss_pct": 0.0,
+      "active": true,
+      "failed": false,
+      "best": true
+    }
+  ],
+  "probe_age_s": 5.2,
+  "warnings": []
+}
