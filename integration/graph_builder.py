@@ -1,4 +1,4 @@
- import json
+import json
 import urllib.request
 import matplotlib.pyplot as plt
 import networkx as nx
